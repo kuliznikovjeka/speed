@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Host: https://mosclimat-24.ru/
+Sitemap: https://mosclimat-24.ru/sitemap.xml
